@@ -2,8 +2,9 @@
 # References: 
 # 1. https://github.com/fotisk07/Image-Classifier
 # 2. https://katba-caroline.com/what-flower-is-this-developing-an-image-classifier-with-deep-learning-using-pytorch/
-# 3. https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html#load-data
-# 4. https://medium.com/@josh_2774/deep-learning-with-pytorch-9574e74d17ad
+# 3. https://github.com/ErkanHatipoglu/AIPND_final_project_part_2
+# 4. https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html#load-data
+# 5. https://medium.com/@josh_2774/deep-learning-with-pytorch-9574e74d17ad
 
 import argparse
 
